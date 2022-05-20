@@ -7,7 +7,7 @@
 
 
 <h2>Skills</h2>
-<img align="center" alt="4rth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="4rth-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
