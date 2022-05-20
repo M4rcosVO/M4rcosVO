@@ -3,8 +3,7 @@
 - I am currently working with python
 - I am currently studying about python
 - How to contact me: marcosoliveira10512@gmail.com
-- Pronouns: he/his
-
+- Pronouns: he/his 
 
 <h2>Skills</h2>
 <img align="center" alt="4rth-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
