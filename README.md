@@ -5,9 +5,11 @@
 - How to contact me: marcosoliveira10512@gmail.com
 - Pronouns: he/his 
 
-<h2>Skills</h2>
-<img align="center" alt="4rth-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="right" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<div style="display: inline_block"><br>
+  <h2>Skills</h2>
+    <img align="center" alt="4rth-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="4rth-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
