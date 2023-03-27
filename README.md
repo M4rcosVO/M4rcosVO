@@ -1,12 +1,12 @@
 ## Hi! I'm Marcos Vinícius de Oliveira
 
-- I am currently working with python
-- I am currently studying about python
+- I am currently working with HTML/CSS
+- I am currently studying about HTML/CSS
 - How to contact me: marcosoliveira10512@gmail.com
 - Pronouns: he/his 
 
 <h2>Skills</h2>
-<img align="center" alt="4rth-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="4rth-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
