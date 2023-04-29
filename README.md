@@ -3,7 +3,6 @@
 - I am currently working with HTML/CSS
 - I am currently studying about HTML/CSS
 - How to contact me: marcosoliveira10512@gmail.com
-- Pronouns: he/his 
 
 <div style="display: inline_block"><br>
   <h2>Skills</h2>
