@@ -22,8 +22,5 @@
     
    <div>
   <a href = "mailto:marcosoliveira10512@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-vinícius-oliveira-a67402234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-    ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Marcos Vinícius&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+  <a href="https://www.linkedin.com/in/marcos-vinícius-oliveira-a67402234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
