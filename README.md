@@ -1,8 +1,7 @@
 ## Marcos Vinícius de Oliveira
 
 - I’m currently working on HTML, CSS and JS
-- I’m currently learning Python
-- Bacharelor's Degree in progress - Computer Science (3/8).
+- Bacharelor's Degree in progress - Computer Science (4/8).
 - How to contact me:
 - WhatsApp: (31) 99558-4476
 - E-mail: marcosoliveira10512@gmail.com
