@@ -1,6 +1,5 @@
 ## Marcos Vinícius de Oliveira
 
-- I’m currently working on HTML, CSS and JS
 - Bacharelor's Degree in progress - Computer Science (4/8).
 - How to contact me:
 - WhatsApp: (31) 99558-4476
