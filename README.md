@@ -1,6 +1,6 @@
 ## Marcos Vinícius de Oliveira
 
-- Bacharelor's Degree in progress - Computer Science (4/8).
+- Bacharelor's Degree in progress - Computer Science (5/8).
 - How to contact me:
 - WhatsApp: (31) 99558-4476
 - E-mail: marcosoliveira10512@gmail.com
