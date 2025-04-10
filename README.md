@@ -1,7 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8a3fe3&reversal=false&textBg=false&descAlign=50&descAlignY=60"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a3fe3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcos+Vinícius+de+Oliveira;I'm+from+Sete+Lagoas,+MG,+Brazil;I'm+currently+studying+Computer+Science+at+Una;I'm+a+Full+Stack+developer.+Welcome+to+my+GitHub!+%F0%9F%98%80)](https://git.io/typing-svg)
 
 - How to contact me:
-- WhatsApp: (31) 99558-4476
 - E-mail: marcosoliveira10512@gmail.com
 - in: https://www.linkedin.com/in/m4rcos/
   
@@ -40,3 +41,5 @@
   <a href="https://www.linkedin.com/in/m4rcos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcosoliveira10512@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8a3fe3&reversal=false&textBg=false&descAlign=50&descAlignY=60&section=footer"/>
