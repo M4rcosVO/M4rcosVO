@@ -5,6 +5,7 @@
 - How to contact me:
 - E-mail: marcosoliveira10512@gmail.com
 - Linkedin: https://www.linkedin.com/in/m4rcos/
+- Facebook: https://www.facebook.com/profile.php?id=61571982726432
   
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
