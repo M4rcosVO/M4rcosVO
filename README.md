@@ -5,7 +5,6 @@
 - How to contact me: <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> E-mail: marcosoliveira10512@gmail.com <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px">  Linkedin: <a href="https://www.linkedin.com/in/m4rcos/">Marcos Vinícius de Oliveira</a> <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px">  Whatsapp: <a href="https://wa.me/5531995584476">+55 (31) 99558-4476</a>
 ##
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
