@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a3fe3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcos+Vinícius+de+Oliveira;I'm+from+Sete+Lagoas,+MG,+Brazil;I'm+currently+studying+Computer+Science+at+Una;I'm+a+Full+Stack+developer.+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 - How to contact me: <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> E-mail: marcosoliveira10512@gmail.com <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px">  Linkedin: <a href="https://www.linkedin.com/in/m4rcos/">Marcos Vinícius de Oliveira</a> <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px">  Facebook: <a href="https://www.facebook.com/profile.php?id=61574878215200)">Marcos Vinícius de Oliveira</a> <br>
+E-mail: marcosoliveira10512@gmail.com <br>
+Linkedin: <a href="https://www.linkedin.com/in/m4rcos/">Marcos Vinícius de Oliveira</a> <br>
+Facebook: <a href="https://www.facebook.com/profile.php?id=61574878215200)">Marcos Vinícius de Oliveira</a> <br>
 ##
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
