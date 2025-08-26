@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a3fe3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcos+Vinícius+de+Oliveira;I'm+from+Sete+Lagoas,+MG,+Brazil;I'm+currently+studying+Computer+Science+at+Una;I'm+a+Full+Stack+developer.+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 - How to contact me: <br>
-WhatsApp: <a href="https://www.linkedin.com/in/m4rcos/">+55 (31) 99558-4476</a> <br>
+WhatsApp: <a href="https://wa.me/5531995584476">+55 (31) 99558-4476</a> <br>
 E-mail: marcosoliveira10512@gmail.com <br>
 Linkedin: <a href="https://www.linkedin.com/in/m4rcos/">Marcos Vinícius de Oliveira</a> <br>
 Facebook: <a href="https://www.facebook.com/profile.php?id=61574878215200)">Marcos Vinícius de Oliveira</a> <br>
