@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8a3fe3&reversal=false&textBg=false&descAlign=50&descAlignY=60"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a3fe3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcos+Vinícius+de+Oliveira;I'm+from+Sete+Lagoas,+MG,+Brazil;I'm+currently+studying+Computer+Science+at+Una;I'm+a+Full+Stack+developer.+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a3fe3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcos+Vinícius+de+Oliveira;I'm+from+Sete+Lagoas,+MG,+Brazil;I'm+currently+studying+Computer+Science+at+Una;I'm+a+Back+End+Developer.+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 - How to contact me: <br>
 WhatsApp: <a href="https://wa.me/5531995584476">+55 (31) 99558-4476</a> <br>
