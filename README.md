@@ -6,7 +6,6 @@
 WhatsApp: <a href="https://wa.me/5531995584476">+55 (31) 99558-4476</a> <br>
 E-mail: marcosoliveira10512@gmail.com <br>
 Linkedin: <a href="https://www.linkedin.com/in/m4rcos/">Marcos Vinícius de Oliveira</a> <br>
-Facebook: <a href="https://www.facebook.com/profile.php?id=61574878215200)">Marcos Vinícius de Oliveira</a> <br>
 ##
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -48,9 +47,6 @@ Facebook: <a href="https://www.facebook.com/profile.php?id=61574878215200)">Marc
   </a>
   <a href="mailto:marcosoliveira10512@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61574878215200" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
 </div>
 
