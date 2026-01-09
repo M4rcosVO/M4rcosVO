@@ -39,12 +39,6 @@ Linkedin: <a href="https://www.linkedin.com/in/m4rcos/">Marcos Vinícius de Oliv
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## GitHub Stats:
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=m4rcosvo&theme=midnight-purple&hide&show_icons=true&count_private=true&hide_border=true" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcosvo&theme=midnight-purple&hide&layout=compact&hide_border=true" />
-</div>
-
 ##
 <div align="center">
   <a href="https://github.com/M4rcosVO" target="_blank">
